@@ -1,0 +1,8 @@
+inicio
+    var:=123;
+    var2:=var+1;
+    leer(var,var2);
+fin
+
+
+
